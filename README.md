@@ -16,7 +16,7 @@
 </table>
 <table border="1px" >
     <tr>
-  <td>voçe lembra deste meme se quer<br>se sim de um click na imagem<br> acima  </td>
+  <td>voçe lembra deste meme <br>se sim de um click na imagem<br> acima  </td>
 
     </tr>       
     <a href="https://nicolasdavid0104.github.io/-tollface/"><img src="ing/troolface.png"/></a>
